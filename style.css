@@ -1,6 +1,11 @@
 body {
   background-color: blue;
 }
+<<<<<<< HEAD
 h1 {
   font-size: 50px;
+=======
+h1{
+  font-size: 20px;
+>>>>>>> 43b58d0cbd5acd488cf7c62e1f0e89767d8aafc0
 }
